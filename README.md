@@ -1,17 +1,12 @@
-# Olá, eu sou o [Seu Nome]! 👋
+# Olá, eu sou o João Pedro
 
-### 🚀 Sobre mim
-Sou um [Sua Área, ex: Desenvolvedor Back-end] apaixonado por transformar problemas complexos em código limpo.
-- 🔭 Atualmente trabalhando em: [Nome de um projeto ou "Projetos pessoais"]
-- 🌱 Estudando: [Tecnologia que você está aprendendo, ex: Kafka, Kubernetes]
-- 💼 Aberto a oportunidades para: [Tipo de vaga que busca]
+Sou Engenheiro de Dados e Engenheiro de Software apaixonado por transformar problemas complexos em código limpo.
+- Atualmente estou trabalhando em Projetos Pessoais, focando em aprender novas tecnologias
+- Estudando Airflow, Kafka, Terraform, AWS e DBT
 
-### 🛠️ Tech Stack
+### Stacks
 ![Python](url-badge) ![SQL](url-badge) ![Docker](url-badge) ![AWS](url-badge)
 
-### 🏆 Principais Projetos
-1. **[Nome do Projeto]**: Sistema de ETL automatizado usando Airflow.
-2. **[Nome do Projeto]**: API de geolocalização para entregas.
-
-### 📫 Onde me encontrar
-[![LinkedIn](url-badge-linkedin)](seu-link) [![Gmail](url-badge-gmail)](mailto:seu-email)
+###  Principais Projetos
+1. **data-engineering-lab**: ETL de dados de trânsito atualizadas a cada hora.
+2. **codec-bridge**: Biblioteca Python para Resolução problemas de Encoding com DuckDB.
