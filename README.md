@@ -1,12 +1,24 @@
-# Olá, eu sou o João Pedro
+# João Pedro Ferraz — Data Engineer
 
-Sou Engenheiro de Dados e Engenheiro de Software apaixonado por transformar problemas complexos em código limpo.
-- Atualmente estou trabalhando em Projetos Pessoais, focando em aprender novas tecnologias.
-- Estudando Airflow, Kafka, Terraform, AWS, Spark e DBT.
+---
 
-### Stacks
-Python, SQL, Docker, AWS, MongoDB, MySql, DuckDB, Airflow, Spark, Encoding, Pandas, Metabase.
+## Featured Repositories
 
-###  Principais Projetos
-1. **data-engineering-lab**: ETL de dados de trânsito atualizadas a cada hora.
-2. **codec-bridge**: Biblioteca Python para Resolução problemas de Encoding com DuckDB.
+- **[codec-bridge](https://github.com/jpferraz-git/codec-bridge)** — Python library for encoding resolution in DuckDB pipelines
+- **[data-engineering-lab](https://github.com/jpferraz-git/data-engineering-lab)** — Hourly transit data ETL with Airflow and Python
+
+---
+
+## Stack
+
+Python · SQL · Airflow · Spark · Kafka · DuckDB · Docker · Terraform · AWS · DBT · MongoDB
+
+---
+
+## Currently studying
+
+Terraform · DBT · Kafka · Spark · AWS
+
+---
+
+![Stats](https://github-readme-stats.vercel.app/api?username=jpferraz-git&show_icons=true&hide_title=true&count_private=true&theme=default)
