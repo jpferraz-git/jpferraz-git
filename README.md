@@ -14,11 +14,11 @@
     ░░░░░░░░░░░░░░░░░░░░░░░░░         Shell......: AWS Certified Cloud Practitioner
                                       Resolution.: Bronze → Silver → Gold (Medallion Architecture)
                                       DE.........: ETL / ELT Pipelines
-                                       WM.........: Airflow · Prefect · Apache NiFi
-                                       Terminal...: VS Code
-                                       CPU........: Problem Solving (8 cores, no throttling)
-                                       GPU........: LLM Integration (Llama) for Insights
-                                       Memory.....: 14+ technologies loaded / ∞ eagerness to learn
+                                      WM.........: Airflow · Prefect · Apache NiFi
+                                      Terminal...: VS Code
+                                      CPU........: Problem Solving (8 cores, no throttling)
+                                      GPU........: LLM Integration (Llama) for Insights
+                                      Memory.....: 14+ technologies loaded / ∞ eagerness  
 ```
 
 ## 💻 Stack
