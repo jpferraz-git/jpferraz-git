@@ -5,22 +5,20 @@
 ```
      ╔═══════════════════════╗        joaopedro@fullstack-to-data
      ║                       ║        ────────────────────────────────────────────────
-     ║          >_           ║        OS.........: Full Stack Developer → Data Eng & AI (in transition)
+     ║                       ║        OS.........: Full Stack Developer → Data Eng & AI (in transition)
      ║                       ║        Host.......: Stefanini Brazil — Bradesco Squad
-     ║      {  J . P . F  }  ║        Kernel.....: Java 17 · Python 3.12 · TypeScript
+     ║                       ║        Kernel.....: Java 17 · Python 3.12 · TypeScript
      ║                       ║        Uptime.....: 1+ year in production (fintech + banking)
      ╚═══════════════════════╝        Packages...: Spring Boot, Angular, Airflow, Spark, Kafka,
-    ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄          Docker, Terraform, Prefect, Polars (14+)
-    ░░░░░░░░░░░░░░░░░░░░░░░░░          Shell......: AWS Certified Cloud Practitioner
-                                       Resolution.: Bronze → Silver → Gold (Medallion Architecture)
-                                       DE.........: ETL / ELT Pipelines
+    ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄         Docker, Terraform, Prefect, Polars (14+)
+    ░░░░░░░░░░░░░░░░░░░░░░░░░         Shell......: AWS Certified Cloud Practitioner
+                                      Resolution.: Bronze → Silver → Gold (Medallion Architecture)
+                                      DE.........: ETL / ELT Pipelines
                                        WM.........: Airflow · Prefect · Apache NiFi
                                        Terminal...: VS Code
                                        CPU........: Problem Solving (8 cores, no throttling)
                                        GPU........: LLM Integration (Llama) for Insights
                                        Memory.....: 14+ technologies loaded / ∞ eagerness to learn
-
-                                       🟥 🟧 🟨 🟩 🟦 🟪 ⬛ ⬜
 ```
 
 ## 💻 Stack
