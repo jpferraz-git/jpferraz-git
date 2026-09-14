@@ -33,7 +33,7 @@
 - 📊 Started my journey in **Data Engineering** at F3 Capital, cutting ETL pipeline processing time by 90% and speeding up financial report generation by 97%.
 - ☁️ **AWS Certified Cloud Practitioner** — led the full cloud/IaC design of an academic project (Terraform, VPC, EC2, Bastion Host, RabbitMQ, Redis, S3, CI/CD) under a tight $50 budget with resources auto-destroyed every 4 hours.
 - 🤖 Have integrated LLM models (Llama) into data pipelines to generate personalized user insights.
-- 🌱 Currently learning: advanced Spark, Kafka, Terraform, DBT.
+- 🌱 Currently learning: More about IA and LLMs.
 
 ## Featured Projects
 
