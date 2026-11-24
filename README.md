@@ -32,11 +32,11 @@
 
 ## About me
 
-- 🏦 Currently on the team dedicated to the **Bradesco** account at **Stefanini Brazil**, building Java/Spring Boot APIs (Hexagonal Architecture) and ELT pipelines in Medallion Architecture orchestrated with **Prefect**.
-- 🦆 **Open Source Contributor to DuckDB** — author of merged encodings mappings in [`duckdb/duckdb-encodings` (PR #35)](https://github.com/duckdb/duckdb-encodings/pull/35) and creator of [`codec_bridge`](https://github.com/jpferraz-git/codec_bridge) on PyPI.
-- 📊 Started my journey in **Data Engineering** at F3 Capital, cutting ETL pipeline processing time by 90% and speeding up financial report generation by 97%.
-- ☁️ **AWS Certified Cloud Practitioner** — led the full cloud/IaC design of an academic project (Terraform, VPC, EC2, Bastion Host, RabbitMQ, Redis, S3, CI/CD) under a tight $50 budget with resources auto-destroyed every 4 hours.
-- 🤖 Have integrated LLM models (Llama) into data pipelines to generate personalized user insights.
+- Currently on the team dedicated to the **Bradesco** account at **Stefanini Brazil**, building Java/Spring Boot APIs (Hexagonal Architecture) and ELT pipelines in Medallion Architecture orchestrated with **Prefect**.
+- **Open Source Contributor to DuckDB** — author of merged encodings mappings in [`duckdb/duckdb-encodings` (PR #35)](https://github.com/duckdb/duckdb-encodings/pull/35) and creator of [`codec_bridge`](https://github.com/jpferraz-git/codec_bridge) on PyPI.
+- Started my journey in **Data Engineering** at F3 Capital, cutting ETL pipeline processing time by 90% and speeding up financial report generation by 97%.
+- **AWS Certified Cloud Practitioner** — led the full cloud/IaC design of an academic project (Terraform, VPC, EC2, Bastion Host, RabbitMQ, Redis, S3, CI/CD) under a tight $50 budget with resources auto-destroyed every 4 hours.
+- Have integrated LLM models (Llama) into data pipelines to generate personalized user insights.
 
 ## Open Source Contributions
 
