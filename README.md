@@ -53,7 +53,6 @@
 | **[Léo Vidros e Esquadrias API](https://github.com/projeto-leo-vidros/leo-vidros-api)** | Led cloud/IaC design end-to-end (VPC, Bastion Host, 5 EC2 instances, RabbitMQ, Redis, S3, CI/CD) plus a Spring Boot REST API with DDD | Terraform · AWS · Spring Boot · Docker · React |
 | **[FinTrack API](https://github.com/jpferraz-git/fintrack-api)** | REST API for investment tracking, portfolio management, and real-time financial asset monitoring | Java · Spring Boot · PostgreSQL |
 | **[Learnfy](https://github.com/Learnfy-sptech/Java-application)** | Educational ETL pipeline with event-driven AWS Lambda triggers on S3 uploads | Java · AWS Lambda · MySQL · Docker |
-| **[Apache POI Learnfy](https://github.com/jpferraz-git/apache-poi-learnfy)** | Microservice for extracting, sanitizing, and transforming Excel spreadsheet data | Java · Spring Boot · Apache POI |
 | **[Ubuntu Mutter Wayland Hotplug Fix](https://github.com/jpferraz-git/ubuntu-mutter-wayland-hotplug-fix)** | Forensic analysis, Ubuntu 24.04 SRU C backport patch (`LP: #2117277`), and mitigation tool for Mutter 46 / Wayland HDMI hotplug crashes | C · Shell · Linux · Wayland |
 
 ## Contact
